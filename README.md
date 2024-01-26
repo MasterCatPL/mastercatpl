@@ -5,7 +5,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **MthHost**
+ 🔭 I’m currently working on **PolskaHook**
  
  🌱 I’m currently learning **C#, C++**
 
